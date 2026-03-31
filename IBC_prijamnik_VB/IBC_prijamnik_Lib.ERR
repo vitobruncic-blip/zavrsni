@@ -1,0 +1,6 @@
+Component Rule Check Report for : D:\FER\3. godina\6. sem\ZAVRŠNI PROJEKT\IBC_prijamnik_VB\IBC_prijamnik_Lib.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+USB4135-GF-A        (Missing Pin Number In Sequence : A6,A7,A8,A10,A11 [A5..A12]) 
