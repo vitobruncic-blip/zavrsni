@@ -1,0 +1,9 @@
+Added Parameter Case=0402 to Part C28
+Added Parameter Case=0805 to Part C5
+Added Parameter Case=0805 to Part R4
+Added Parameter Case=0805 to Part R5
+Replace Symbol from C5 C2012C0G2W101J060AA in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with C2012C0G2W101J060AA from IBC_prijamnik_Lib.SchLib
+Replace Symbol from C28 KAM05AR71H681KN in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with KAM05AR71H681KN from IBC_prijamnik_Lib.SchLib
+Replace Symbol from R4 AC0805FR-074R7L in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with AC0805FR-074R7L from IBC_prijamnik_Lib.SchLib
+Replace Symbol from R5 RC0805FR-0752R3L in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with RC0805FR-0752R3L from IBC_prijamnik_Lib.SchLib
+Replace Symbol from U2 AD8310ARMZ-REEL7 in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with AD8310ARMZ-REEL7 from IBC_prijamnik_Lib.SchLib

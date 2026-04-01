@@ -1,0 +1,14 @@
+Added Parameter Case=0402 to Part R10
+Added Parameter Case=0603 to Part C27
+Added Parameter Case=0805 to Part C25
+Added Parameter Case=0805 to Part D2
+Added Parameter Case=0805 to Part R11
+Replace Symbol from C25 C0805C103K5RECAUTO in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\PWR_SUPPLY.SchDoc with C0805C103K5RECAUTO from IBC_prijamnik_Lib.SchLib
+Replace Symbol from C27 C1608X7R1H105K080AB in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\PWR_SUPPLY.SchDoc with C1608X7R1H105K080AB from IBC_prijamnik_Lib.SchLib
+Replace Symbol from D2 SM0805GCL in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\PWR_SUPPLY.SchDoc with SM0805GCL from IBC_prijamnik_Lib.SchLib
+Replace Symbol from J1 USB4135-GF-A in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\PWR_SUPPLY.SchDoc with USB4135-GF-A from IBC_prijamnik_Lib.SchLib
+Replace Symbol from J2 BAT HEADER 2-1 in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\PWR_SUPPLY.SchDoc with BAT HEADER 2-1 from IBC_prijamnik_Lib.SchLib
+Replace Symbol from R10 NTCG103JF103FT1S in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\PWR_SUPPLY.SchDoc with NTCG103JF103FT1S from IBC_prijamnik_Lib.SchLib
+Replace Symbol from R11 RC0805FR-102KL in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\PWR_SUPPLY.SchDoc with RC0805FR-102KL from IBC_prijamnik_Lib.SchLib
+Replace Symbol from U4 BQ24040DSQR in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\PWR_SUPPLY.SchDoc with BQ24040DSQR from IBC_prijamnik_Lib.SchLib
+Replace Symbol from U5 TPS73633DBVR in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\PWR_SUPPLY.SchDoc with TPS73633DBVR from IBC_prijamnik_Lib.SchLib
