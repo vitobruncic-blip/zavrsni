@@ -1,0 +1,4 @@
+Change Component Parameter Comment in C8 Old= New=680p
+Change Component Parameter Description in C8 Old=Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 MLCC NPO 23 pF +/- 2% 50 V T&R GP New=Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 680pF X7R 0402 1 0% AEC-Q200
+Change Component Parameter Library Reference in C8 Old=0402N230G500CT New=KAM05AR71H681KN
+Replace Part C8 KAM05AR71H681KN in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with KAM05AR71H681KN from IBC_prijamnik_Lib.SchLib

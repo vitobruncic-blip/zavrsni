@@ -1,0 +1,32 @@
+Removed Parameter Case:0805 from Part C21
+Removed Parameter Case:0805 from Part C22
+Removed Parameter Case:0805 from Part D1
+Removed Parameter Case:0805 from Part FB1
+Removed Parameter Case:0805 from Part L2
+Removed Parameter Case:0805 from Part R6
+Removed Parameter Case:0805 from Part R7
+Removed Parameter Case:0805 from Part R9
+Removed Parameter Case:0805 from Part U6
+Added Parameter Kucište=0805 to Part C21
+Added Parameter Kucište=0805 to Part C22
+Added Parameter Kucište=0805 to Part D1
+Added Parameter Kucište=0805 to Part FB1
+Added Parameter Kucište=0805 to Part L2
+Added Parameter Kucište=0805 to Part R6
+Added Parameter Kucište=0805 to Part R7
+Added Parameter Kucište=0805 to Part R9
+Added Parameter Kucište=0805 to Part U6
+Replace Symbol from C21 CGA4J1X7R1H475K125AC in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with CGA4J1X7R1H475K125AC from IBC_prijamnik_Lib.SchLib
+Replace Symbol from C22 CGA4J1X7R1H475K125AC in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with CGA4J1X7R1H475K125AC from IBC_prijamnik_Lib.SchLib
+Replace Symbol from D1 SM0805GCL in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with SM0805GCL from IBC_prijamnik_Lib.SchLib
+Replace Symbol from FB1 MPZ2012S601AT000 in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with MPZ2012S601AT000 from IBC_prijamnik_Lib.SchLib
+Replace Symbol from L2 AIMC-0805-10NJ-T in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with AIMC-0805-10NJ-T from IBC_prijamnik_Lib.SchLib
+Replace Symbol from R6 RC0805FR-07560RL in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with RC0805FR-07560RL from IBC_prijamnik_Lib.SchLib
+Replace Symbol from R7 AC0805FR-0749R9L in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with AC0805FR-0749R9L from IBC_prijamnik_Lib.SchLib
+Replace Symbol from R8 RC0805JR-0710KL in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with RC0805JR-0710KL from IBC_prijamnik_Lib.SchLib
+Replace Symbol from R9 AC0805FR-0749R9L in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with AC0805FR-0749R9L from IBC_prijamnik_Lib.SchLib
+Replace Symbol from S1 TL3301AF160QG in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with TL3301AF160QG from IBC_prijamnik_Lib.SchLib
+Replace Symbol from U3 STM32WB55CGU6 in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with STM32WB55CGU6 from IBC_prijamnik_Lib.SchLib
+Replace Symbol from U3 STM32WB55CGU6 in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with STM32WB55CGU6 from IBC_prijamnik_Lib.SchLib
+Replace Symbol from U6 74AHC1G17GWH in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with 74AHC1G17GWH from IBC_prijamnik_Lib.SchLib
+Replace Symbol from X2 68001-204HLF in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\STM32.SchDoc with 68001-204HLF from IBC_prijamnik_Lib.SchLib
