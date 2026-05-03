@@ -1,0 +1,13 @@
+Removed Parameter Case/Package:0402 from Part C8
+Removed Parameter Case/Package:0402 from Part C28
+Change Value of Parameter Case/Package in Part U2 Old=MSOP-8 New=MSOP
+Change Component Parameter Comment in U2 Old= New=AD8310ARMZ-REEL7
+Replace Symbol from C4 MCJCU21GBB7104KTPA01 in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with MCJCU21GBB7104KTPA01 from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C5 C0805C103K5RECAUTO in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with C0805C103K5RECAUTO from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C6 MCJCU21GBB7104KTPA01 in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with MCJCU21GBB7104KTPA01 from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C7 MCJCU21GBB7104KTPA01 in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with MCJCU21GBB7104KTPA01 from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C8 KAM05ACG1H220FH in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with KAM05ACG1H220FH from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C28 KAM05ACG1H220FH in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with KAM05ACG1H220FH from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from R4 AC0805FR-074R7L in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with AC0805FR-074R7L from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from R5 RC0805FR-0752R3L in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with RC0805FR-0752R3L from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from U2 AD8310ARMZ-REEL7 in D:\FER\3. godina\6. sem\zavrsni\IBC_prijamnik_VB\LOG_AMP.SchDoc with AD8310ARMZ-REEL7 from DZ1_Bruncic_Vito.SchLib
