@@ -1,0 +1,126 @@
+Add component: Footprint Not Found ANTC320X160X140L50N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found PNSC-EEE1CA100SR_N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC100X50X55L25N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found LEDC200X120X80L30N
+Add component: Footprint Not Found LEDC200X120X80L30N
+Add component: Footprint Not Found BEADC200X125X110L50N
+Add component: Footprint Not Found ST_MLPF-WB55-01E3
+Added Component: Designator=J1(USB4135GFA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ar.mouser.com/datasheet/2/837/usb4135-2930399.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "GCT (GLOBAL CONNECTOR TECHNOLOGY)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USB4135-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "640-USB4135-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/GCT/USB4135-GF-A?qs=Li%252BoUPsLEnt6HRo6RUvaXA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3946920"; VariantName = "[No Variations]"
+Add component: Footprint Not Found INDC200X125X105L50N
+Add component: Footprint Not Found INDC200X125X105L50N
+Add component: Footprint Not Found INDC100X50X60L25N
+Add component: Footprint Not Found INDC100X50X60L25N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found FP-AC0603-IPC_C
+Add component: Footprint Not Found RESC3216X60X45NL10T20
+Add component: Footprint Not Found FP-AC0603-IPC_C
+Add component: Footprint Not Found ESWITCH_TL3301AF160QG
+Add component: Footprint Not Found SOIC8P127_490X599X175L84X41N
+Add component: Footprint Not Found SOP8P65_300X490X110L60X32N
+Add component: Footprint Not Found QFN49P50_700X700X60L40X25T560N
+Add component: Footprint Not Found SON40P200X200X80-11N
+Add component: Footprint Not Found SOT23-5P95_280X145L45X40N
+Add component: Footprint Not Found WURTH_60312002114503
+Add component: Footprint Not Found AMPHENOL_68001-204HLF
+Add component: Footprint Not Found OSCCC200X160X50L55X65N
+Add component: Footprint Not Found NDK_NX2012SA-32_768KHZ-EXS00A-MU00626
+Added Pin To Net: NetName=3V3 Pin=J1-A12
+Added Pin To Net: NetName=3V3 Pin=J1-B12
+Added Net: Name=3V3
+Added Net: Name=BOOT0
+Added Net: Name=NetANT1_1
+Added Net: Name=NetC1_1
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_2
+Added Net: Name=NetC5_1
+Added Net: Name=NetC6_1
+Added Net: Name=NetC6_2
+Added Net: Name=NetC7_2
+Added Net: Name=NetC8_1
+Added Net: Name=NetC10_2
+Added Net: Name=NetC11_2
+Added Net: Name=NetC20_2
+Added Net: Name=NetC22_2
+Added Net: Name=NetC23_1
+Added Net: Name=NetC23_2
+Added Net: Name=NetC25_2
+Added Pin To Net: NetName=NetC27_1 Pin=J1-A9
+Added Pin To Net: NetName=NetC27_1 Pin=J1-B9
+Added Net: Name=NetC27_1
+Added Net: Name=NetC28_2
+Added Net: Name=NetD1_2
+Added Net: Name=NetD2_1
+Added Net: Name=NetD2_2
+Added Net: Name=NetIPD1_A3
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Net: Name=NetJ1_A5
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Net: Name=NetJ1_B5
+Added Net: Name=NetL1_1
+Added Net: Name=NetL1_2
+Added Net: Name=NetR3_1
+Added Net: Name=NetR6_2
+Added Net: Name=NetR7_1
+Added Net: Name=NetR9_1
+Added Net: Name=NetR10_2
+Added Net: Name=NetR11_2
+Added Net: Name=NetR15_2
+Added Net: Name=NetR16_1
+Added Net: Name=NetR16_2
+Added Net: Name=NetR17_1
+Added Net: Name=NetR18_2
+Added Net: Name=NetS1_3
+Added Net: Name=NetU3_24
+Added Net: Name=NetU3_25
+Added Net: Name=NRST
+Added Net: Name=SWCLK
+Added Net: Name=SWDIO
+Added Net: Name=VBAT+
+Added Class: Name=Battery Charger and LDO Regulator
+Added Class: Name=Buffer
+Added Class: Name=IPD and BT Antena
+Added Class: Name=Logarithmic Amplifier
+Added Class: Name=STM32 MCU
+Added Rule: Name=Schematic Supply Nets

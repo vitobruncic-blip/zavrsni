@@ -1,0 +1,17 @@
+Change Component Parameter Description in C1 Old=Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.1uF X7R 0805 10% AEC-Q200 New=Kondenzator, X7R, 10%, 50VDC
+Change Component Parameter Description in C2 Old=Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.1uF X7R 0805 10% AEC-Q200 New=Kondenzator, X7R, 10%, 50VDC
+Change Component Parameter Description in C3 Old=Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.1uF X7R 0805 10% AEC-Q200 New=Kondenzator, X7R, 10%, 50VDC
+Change Component Parameter Description in R1 Old=Res Thick Film 0805 49.9 Ohm 1% 0.125W(1/8W) ±100ppm/C Epoxy Pad SMD Automotive T/R New=Otpornik, ±100ppm/C, 125mW
+Change Component Parameter Description in R2 Old=Thick Film Resistors - SMD 2 kOhms 125 mW 0805 1% New=Otpornik, 1%, 125mW
+Change Component Parameter Description in R3 Old=Res Thick Film 0805 49.9 Ohm 1% 0.125W(1/8W) ±100ppm/C Epoxy Pad SMD Automotive T/R New=Otpornik, ±100ppm/C, 125mW
+Change Component Parameter Description in U1 Old=High Speed Operational Amplifiers High Speed Closed Loop Buffer New=Integrirani Buffer
+Change Component Parameter Component Kind in X1 Old=Standard (No BOM) New=Standard
+Change Component Parameter Description in X1 Old=Supplied in a Tray, Wurth Elektronik Straight PCB Mount SMA Connector, Solder Termination New=SMA prikljucak
+Replace Symbol from C1 MCJCU21GBB7104KTPA01 in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\BUF_input.SchDoc with MCJCU21GBB7104KTPA01 from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C2 MCJCU21GBB7104KTPA01 in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\BUF_input.SchDoc with MCJCU21GBB7104KTPA01 from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C3 MCJCU21GBB7104KTPA01 in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\BUF_input.SchDoc with MCJCU21GBB7104KTPA01 from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from R1 AC0805FR-0749R9L in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\BUF_input.SchDoc with AC0805FR-0749R9L from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from R2 RC0805FR-102KL in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\BUF_input.SchDoc with RC0805FR-102KL from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from R3 AC0805FR-0749R9L in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\BUF_input.SchDoc with AC0805FR-0749R9L from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from U1 BUF602 in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\BUF_input.SchDoc with BUF602 from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from X1 60312002114503 in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\BUF_input.SchDoc with 60312002114503 from DZ1_Bruncic_Vito.SchLib

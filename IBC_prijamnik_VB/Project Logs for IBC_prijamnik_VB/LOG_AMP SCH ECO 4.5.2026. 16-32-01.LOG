@@ -1,0 +1,18 @@
+Change Component Parameter Description in C4 Old=Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.1uF X7R 0805 10% AEC-Q200 New=Kondenzator, X7R, 10%, 50VDC
+Change Component Parameter Description in C5 Old=KEMET - C0805C103K5RECAUTO - CAP, AEC-Q200, 0.01UF, 50V, MLCC, 0805 New=Kondenzator, C0G, 10%, 50VDC
+Change Component Parameter Description in C6 Old=Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.1uF X7R 0805 10% AEC-Q200 New=Kondenzator, X7R, 10%, 50VDC
+Change Component Parameter Description in C7 Old=Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.1uF X7R 0805 10% AEC-Q200 New=Kondenzator, X7R, 10%, 50VDC
+Change Component Parameter Description in C8 Old=Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 22pF C0G 0402 1% AEC-Q200 New=Kondenzator, C0G, 1%, 50VDC
+Change Component Parameter Description in C28 Old=Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 22pF C0G 0402 1% AEC-Q200 New=Kondenzator, C0G, 1%, 50VDC
+Change Component Parameter Description in R4 Old=Thick Film Resistors 1/8W 4.7ohm 1% AEC-Q200 New=Otpornik, 1%, 125mW
+Change Component Parameter Description in R5 Old=RC0805FR-0752R3L 52,3Ohm New=Otpornik, 1%, 125mW
+Change Component Parameter Description in U2 Old=SP Amp LOG Amp Single R-R I/P 5.5V 8-Pin MSOP T/R New=Logaritamsko pojacalo
+Replace Symbol from C4 MCJCU21GBB7104KTPA01 in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\LOG_AMP.SchDoc with MCJCU21GBB7104KTPA01 from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C5 C0805C103K5RECAUTO in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\LOG_AMP.SchDoc with C0805C103K5RECAUTO from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C6 MCJCU21GBB7104KTPA01 in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\LOG_AMP.SchDoc with MCJCU21GBB7104KTPA01 from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C7 MCJCU21GBB7104KTPA01 in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\LOG_AMP.SchDoc with MCJCU21GBB7104KTPA01 from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C8 KAM05ACG1H220FH in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\LOG_AMP.SchDoc with KAM05ACG1H220FH from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from C28 KAM05ACG1H220FH in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\LOG_AMP.SchDoc with KAM05ACG1H220FH from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from R4 AC0805FR-074R7L in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\LOG_AMP.SchDoc with AC0805FR-074R7L from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from R5 RC0805FR-0752R3L in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\LOG_AMP.SchDoc with RC0805FR-0752R3L from DZ1_Bruncic_Vito.SchLib
+Replace Symbol from U2 AD8310ARMZ-REEL7 in C:\FER\3. godina\6. sem\ZAVRŠNI\IBC_prijamnik_VB\LOG_AMP.SchDoc with AD8310ARMZ-REEL7 from DZ1_Bruncic_Vito.SchLib
