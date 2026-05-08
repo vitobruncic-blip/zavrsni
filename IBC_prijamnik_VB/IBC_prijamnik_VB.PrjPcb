@@ -237,23 +237,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYUIPBHH
 
-[Document12]
-DocumentPath=..\IBC_prijamnik_VB.zip
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [ProjectVariant1]
 UniqueId=5ea0d67a-25ad-4a5e-b52a-8eddada2d5f9
 Description=DNP Version
