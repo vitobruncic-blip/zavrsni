@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=DDS_Out.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=DDS_Out.SchDoc|FileName=DDS_Power_Supply.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=DDS_Out.SchDoc|FileName=Mechanical.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=DDS_Out.SchDoc|FileName=STM_Bluetooth.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=DDS_Out.SchDoc|FileName=STM_DDS_GPIO.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=DDS_Out.SchDoc|FileName=STM_Power_Supply.SchDoc|SheetNumber=1

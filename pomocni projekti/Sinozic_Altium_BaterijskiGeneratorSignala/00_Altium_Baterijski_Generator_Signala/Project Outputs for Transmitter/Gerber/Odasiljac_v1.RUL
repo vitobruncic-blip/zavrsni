@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\marin.sinozic\Desktop\verzija_za_Latex\Transmitter_project\02 PCB\Odasiljac_v1.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

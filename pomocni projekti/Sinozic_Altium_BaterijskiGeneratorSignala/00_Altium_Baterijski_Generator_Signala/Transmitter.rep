@@ -1,0 +1,10 @@
+CSV text has been written to file : Transmitter.csv
+
+Library Component Count : 3
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+CAPACITOR           
+MAX1921EUT33+T      IC REG BUCK 3.3V 400MA SOT23-6
+MAX8640YEXT18+T     Switching Voltage Regulators Tiny 500mA, 4MHz/2MHz Synchronous Step-Down DC-DC Converters

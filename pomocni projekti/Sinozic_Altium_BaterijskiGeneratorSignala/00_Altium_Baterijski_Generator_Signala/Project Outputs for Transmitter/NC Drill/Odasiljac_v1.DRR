@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Odasiljac_v1.PcbDoc   2/4/2022  8:31:03 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Odasiljac_v1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             184       PTH        585.56mm (23.05inch)
+T2      0.5mm (20mil)                                             Round             5         PTH        9.32mm (0.37inch)
+T3      0.9mm (35mil)                                             Round             8         PTH        71.58mm (2.82inch)
+T4      1.4mm (55mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T5      1.6mm (63mil)                                             Round             4         PTH        15.45mm (0.61inch)
+T6      2mm (79mil)                                               Round             4         PTH        132.42mm (5.21inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              206
+
+Total Processing Time (hh:mm:ss) : 00:00:00
