@@ -1,0 +1,11 @@
+Change Value of Parameter Case/Package in Part Y2 Old=SMD/SMT New=0805
+Added Parameter Case/Package=0402 to Part C20
+Added Parameter Case/Package=0603 to Part R17
+Added Parameter Case/Package=0603 to Part R18
+Added Parameter Case/Package=0603 to Part R19
+Added Parameter Case/Package=0805 to Part R16
+Added Parameter Case/Package=0805 to Part U6
+Added Parameter Case/Package=0805 to Part Y1
+Added Parameter Case/Package=1210 to Part C12
+Added Parameter Case/Package=SMD-4, 6x6mm to Part S1
+Added Parameter Case/Package=SMD-10, 16x2,5mm to Part X2

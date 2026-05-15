@@ -1,0 +1,367 @@
+Removed Pin From Net: NetName=3V3 Pin=C19-2
+Removed Pin From Net: NetName=NetR10_2 Pin=R21-4
+Removed Pin From Net: NetName=VBAT+ Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=X3-NEG
+Removed Pin From Net: NetName=VBAT+ Pin=X3-POS
+Change Component Footprint: Designator=R6 Old Footprint=0402 New Footprint=0603
+Change Component Footprint: Designator=R17 Old Footprint=0402 New Footprint=0603
+Change Component Footprint: Designator=R18 Old Footprint=0402 New Footprint=0603
+Change Component Footprint: Designator=R19 Old Footprint=0402 New Footprint=0603
+Change Component Footprint: Designator=X3 Old Footprint=BATTERY New Footprint=HDR1X2
+Change Component Comment : Designator=X3 Old Comment=BAT HDR New Comment=BATERIJA
+Change Component Comment : Designator=D1 Old Comment=Green New Comment=Zelena
+Change Component Comment : Designator=D2 Old Comment=Green New Comment=Zelena
+Change Component Comment : Designator=D3 Old Comment=Green New Comment=Zelena
+Change Component Comment : Designator=X2 Old Comment=HDR 1X4 New Comment=PROGRAMIRANJE
+Change Component Designator: OldDesignator=ANT1 NewDesignator=A1
+Change Component Kind : Designator=X1 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "ANT1" ("ANT1"); Footprint = "ANT_2450AT18B100E"; UniqueID = "\OBLDOBWO\QKPMKWTA" ("\OBLDOBWO\QKPMKWTA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD-2, 3,8x1,8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "RF Antennas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/24025/antenna-2450at18b100-242422-24025839.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Johanson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "2450AT18B100E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "609-2450AT18B100E"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "0402"; UniqueID = "\MPOIDVLD\CVAJBENW" ("\MPOIDVLD\CVAJBENW")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-KAM05ACG1H220FH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "1210"; UniqueID = "\AWIJULST\CUVSUTBI" ("\AWIJULST\CUVSUTBI")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-13152-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "0402"; UniqueID = "\AWIJULST\BKGLJRLG" ("\AWIJULST\BKGLJRLG")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-GCM1555C2A101GE02DTR-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "0603"; UniqueID = "\YXZBKWZD\PAQQRZJK" ("\YXZBKWZD\PAQQRZJK")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/C1608X7R1H105K080AB-TDK-datasheet-175423548.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/C1608X7R1H105K080AB-TDK-datasheet-175423548.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "800µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C1608X7R1H105K080AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0.21, 10=0.121, 50=0.0866, 100=0.076, 500=0.05824, 1000=0.05277 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "9450"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "445-C1608X7R1H105K080ABCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "0603"; UniqueID = "\YXZBKWZD\WWHVDYOO" ("\YXZBKWZD\WWHVDYOO")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/C1608X7R1H105K080AB-TDK-datasheet-175423548.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/C1608X7R1H105K080AB-TDK-datasheet-175423548.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "800µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C1608X7R1H105K080AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0.21, 10=0.121, 50=0.0866, 100=0.076, 500=0.05824, 1000=0.05277 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "9450"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "445-C1608X7R1H105K080ABCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "0402"; UniqueID = "\MPOIDVLD\JYJXWTSA" ("\MPOIDVLD\JYJXWTSA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-KAM05ACG1H220FH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IPD1" ("IPD1"); Footprint = "IPD"; UniqueID = "\OBLDOBWO\RQIXFPPB" ("\OBLDOBWO\RQIXFPPB")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD-6, 1,6x1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Integrated Passive Device"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2802556.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MLPF-WB55-01E3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "511-MLPF-WB55-01E3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J1"); Footprint = "USB4135GFA"; UniqueID = "\YXZBKWZD\VHXGJQDG" ("\YXZBKWZD\VHXGJQDG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD-10, 11,14x6,78mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://ar.mouser.com/datasheet/2/837/usb4135-2930399.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "GCT (GLOBAL CONNECTOR TECHNOLOGY)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USB4135-GF-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "640-USB4135-GF-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/GCT/USB4135-GF-A?qs=Li%252BoUPsLEnt6HRo6RUvaXA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3946920"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "0805"; UniqueID = "\PYMEWMVI\BPKUFYCQ" ("\PYMEWMVI\BPKUFYCQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-102KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0805FR-102KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "0402"; UniqueID = "\YXZBKWZD\SALGJVPB" ("\YXZBKWZD\SALGJVPB")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MCMR04X000 PTL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "0402"; UniqueID = "\YXZBKWZD\JBRXPXLJ" ("\YXZBKWZD\JBRXPXLJ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "NTCG103JF103FT1S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "0805"; UniqueID = "\YXZBKWZD\YVTMSNFF" ("\YXZBKWZD\YVTMSNFF")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-102KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0805FR-102KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "0805"; UniqueID = "\YXZBKWZD\DANMFFJU" ("\YXZBKWZD\DANMFFJU")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-21226360.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-21226360.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-24897302.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-24897302.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-62316122.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-62316122.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5300368.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5300368.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-137115460.pdf?src-supplier=X-ON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-137115460.pdf?src-supplier=X-ON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink12Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-Dale-datasheet-47688880.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink12URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-Dale-datasheet-47688880.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink13Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-12001583.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink13URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-12001583.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink14Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5306405.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink14URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5306405.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink15Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-11540273.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink15URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-11540273.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink16Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-8445837.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink16URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-8445837.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink17Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5377184.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink17URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5377184.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink18Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-148188.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink18URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-148188.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink19Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-41916.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink19URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-41916.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink20Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink20URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MCU08050C1501FP500"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "0805"; UniqueID = "\AWIJULST\JCEJRVEZ" ("\AWIJULST\JCEJRVEZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-21226360.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-21226360.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-24897302.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-24897302.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-62316122.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-62316122.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5300368.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5300368.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-137115460.pdf?src-supplier=X-ON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-137115460.pdf?src-supplier=X-ON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink12Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-Dale-datasheet-47688880.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink12URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-Dale-datasheet-47688880.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink13Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-12001583.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink13URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-12001583.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink14Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5306405.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink14URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5306405.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink15Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-11540273.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink15URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-11540273.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink16Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-8445837.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink16URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-8445837.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink17Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5377184.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink17URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5377184.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink18Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-148188.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink18URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-148188.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink19Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-41916.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink19URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-41916.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink20Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink20URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MCU08050C1501FP500"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "0402"; UniqueID = "\AWIJULST\JZPKBCBB" ("\AWIJULST\JZPKBCBB")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MCMR04X000 PTL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "0402"; UniqueID = "\AWIJULST\OOXUDABG" ("\AWIJULST\OOXUDABG")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MCMR04X000 PTL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "0402"; UniqueID = "\AWIJULST\OPRZWIQB" ("\AWIJULST\OPRZWIQB")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MCMR04X000 PTL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "0805"; UniqueID = "\YXZBKWZD\AZJOMGUZ" ("\YXZBKWZD\AZJOMGUZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-21226360.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-21226360.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-24897302.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-24897302.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-62316122.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-62316122.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5300368.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5300368.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-137115460.pdf?src-supplier=X-ON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-137115460.pdf?src-supplier=X-ON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink12Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-Dale-datasheet-47688880.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink12URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-Dale-datasheet-47688880.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink13Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-12001583.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink13URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-12001583.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink14Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5306405.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink14URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5306405.pdf?src-supplier=RS+(Formerly+Allied+Electronics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink15Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-11540273.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink15URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-11540273.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink16Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-8445837.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink16URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-8445837.pdf?src-supplier=element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink17Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5377184.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink17URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-5377184.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink18Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-148188.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink18URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-148188.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink19Description"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-41916.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink19URL"; Value = "https://datasheet.octopart.com:443/CRCW12061K50JNEA-Vishay-datasheet-41916.pdf?src-supplier=Garrett"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink20Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink20URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MCU08050C1501FP500"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "TH NTC"; UniqueID = "\YXZBKWZD\GYSFXRHG" ("\YXZBKWZD\GYSFXRHG")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TH-2, 3,7x2,54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "4316-103AT-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1" ("S1"); Footprint = "SOP400P1000X525-4N"; UniqueID = "\AWIJULST\FFTXDHUB" ("\AWIJULST\FFTXDHUB")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD-4, 6x6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Tactile Switches"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2900/p010516d-2900775.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TL3301AF160QG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "612-TL3301AF1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "MSOP"; UniqueID = "\PYMEWMVI\TKLOPODS" ("\PYMEWMVI\TKLOPODS")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Operational Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BUF602ID"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "595-BUF602ID"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "SOT23 5pin"; UniqueID = "\AWIJULST\VONKBRJO" ("\AWIJULST\VONKBRJO")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "74AHC1G17GWH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X2" ("X2"); Footprint = "HEADER 1X4"; UniqueID = "\AWIJULST\GKVTBHSU" ("\AWIJULST\GKVTBHSU")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD-10, 16x2,5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/5164/68000-274255-5164127.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "68001-204HLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "649-68001-204HLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "NX2016_4P"; UniqueID = "\AWIJULST\CPCDEMXD" ("\AWIJULST\CPCDEMXD")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Crystal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NX2016SA-32MHZ-EXS00A-CS10925"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "644-1375-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "344-NX2016SA32S06465"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "0805"; UniqueID = "\AWIJULST\CYDLCGSP" ("\AWIJULST\CYDLCGSP")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Crystal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NX2012SA-32.768KHZ-EXS00A-MU00626"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "344-NX2012SA32768K1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C31(0805)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/29534/mlcc-commercial-soft-en-29534235.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kucište"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X7R1H104K125AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "963-MCJCU21GBB7104KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "810-C2012X7R1H104KAE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=R22(0603)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kucište"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCMR04X000 PTL"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TST_POINT)
+Added Component: Designator=TP2(TST_POINT)
+Added Component: Designator=TP3(TST_POINT)
+Added Component: Designator=TP4(TST_POINT)
+Added Pin To Net: NetName=3V3 Pin=C13-2
+Added Pin To Net: NetName=3V3 Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=3V3 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Add Pin To Net: Unknown Pin: Pin R21-2
+Added Pin To Net: NetName=VBAT+ Pin=R22-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Pin To Net: NetName=3V3 Pin=U3-34
+Added Pin To Net: NetName=GND Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X3-1
+Added Pin To Net: NetName=VBAT+ Pin=X3-2
+Change Net Name : Old Net Name=NetANT1_1 New Net Name=NetA1_1
+Change Net Name : Old Net Name=NetC27_1 New Net Name=VBUS
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=FB1-2
+Added Pin To Net: NetName=NetC19_2 Pin=U3-8
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=U5-3
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetTP2_1 Pin=U3-18
+Added Net: Name=NetTP2_1
+Added Pin To Net: NetName=NetTP3_1 Pin=U3-17
+Added Net: Name=NetTP3_1
+Added Member To Class: ClassName=IPD and BT Antena Member=Component A1 2450AT18B100E
+Added Member To Class: ClassName=STM32 MCU Member=Component C31 100n
+Added Member To Class: ClassName=IPD and BT Antena Member=Component L3 3n3
+Added Member To Class: ClassName=Battery Charger and LDO Regulator Member=Component R22 0R0
+Added Member To Class: ClassName=Battery Charger and LDO Regulator Member=Component TP1 TEST_POINT
+Added Member To Class: ClassName=STM32 MCU Member=Component TP2 TEST_POINT
+Added Member To Class: ClassName=STM32 MCU Member=Component TP3 TEST_POINT
+Added Member To Class: ClassName=STM32 MCU Member=Component TP4 TEST_POINT
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
