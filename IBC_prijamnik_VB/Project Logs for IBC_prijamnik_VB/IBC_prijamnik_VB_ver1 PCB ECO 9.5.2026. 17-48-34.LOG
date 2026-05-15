@@ -1,0 +1,283 @@
+Add component: Footprint Not Found ANTC320X160X140L50N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found PNSC-EEE1CA100SR_N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC100X50X55L25N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found CAPC200X125X95L45N
+Add component: Footprint Not Found LEDC200X120X80L30N
+Add component: Footprint Not Found LEDC200X120X80L30N
+Add component: Footprint Not Found LEDC200X120X80L30N
+Add component: Footprint Not Found BEADC200X125X110L50N
+Add component: Footprint Not Found ST_MLPF-WB55-01E3
+Added Component: Designator=J1(USB4135GFA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD-10, 11,14x6,78mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ar.mouser.com/datasheet/2/837/usb4135-2930399.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "GCT (GLOBAL CONNECTOR TECHNOLOGY)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USB4135-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "640-USB4135-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/GCT/USB4135-GF-A?qs=Li%252BoUPsLEnt6HRo6RUvaXA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3946920"; VariantName = "[No Variations]"
+Add component: Footprint Not Found INDC200X125X105L50N
+Add component: Footprint Not Found INDC200X125X105L50N
+Add component: Footprint Not Found INDC100X50X60L25N
+Add component: Footprint Not Found INDC100X50X60L25N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found RESC200X125X60L40N
+Add component: Footprint Not Found FP-AC0603-IPC_C
+Add component: Footprint Not Found FP-AC0603-IPC_C
+Add component: Footprint Not Found ESWITCH_TL3301AF160QG
+Add component: Footprint Not Found SOIC8P127_490X599X175L84X41N
+Add component: Footprint Not Found SOP8P65_300X490X110L60X32N
+Add component: Footprint Not Found QFN49P50_700X700X60L40X25T560N
+Add component: Footprint Not Found SON40P200X200X80-11N
+Add component: Footprint Not Found SOT23-5P95_280X145L45X40N
+Add component: Footprint Not Found WURTH_60312002114503
+Add component: Footprint Not Found AMPHENOL_68001-204HLF
+Added Component: Designator=X3(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component: Footprint Not Found OSCCC200X160X50L55X65N
+Add component: Footprint Not Found NDK_NX2012SA-32_768KHZ-EXS00A-MU00626
+Add Pin To Net: Unknown Pin: Pin ANT1-1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin FB1-1
+Add Pin To Net: Unknown Pin: Pin IPD1-A1
+Add Pin To Net: Unknown Pin: Pin IPD1-A3
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetC27_1 Pin=J1-A9
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetC27_1 Pin=J1-B9
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R21-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-23
+Add Pin To Net: Unknown Pin: Pin U3-24
+Add Pin To Net: Unknown Pin: Pin U3-25
+Add Pin To Net: Unknown Pin: Pin U3-31
+Add Pin To Net: Unknown Pin: Pin U3-35
+Add Pin To Net: Unknown Pin: Pin U3-39
+Add Pin To Net: Unknown Pin: Pin U3-40
+Add Pin To Net: Unknown Pin: Pin U3-41
+Add Pin To Net: Unknown Pin: Pin U3-48
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-3
+Add Pin To Net: Unknown Pin: Pin X2-4
+Added Pin To Net: NetName=VBAT+ Pin=X3-2
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-2
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=GND Pin=X3-1
+Added Net: Name=GND
+Added Net: Name=NetC13_2
+Added Net: Name=NetC29_2
+Added Net: Name=NetD3_2
+Added Net: Name=NetFB1_2
+Added Net: Name=NetL2_1
+Added Net: Name=NetR12_2
+Added Net: Name=NetR17_2
+Added Net: Name=NetR19_1
+Add Class Member: Failed to add class member : Component ANT1 2450AT18B100E
+Add Class Member: Failed to add class member : Component C1 100n
+Add Class Member: Failed to add class member : Component C2 100n
+Add Class Member: Failed to add class member : Component C3 100n
+Add Class Member: Failed to add class member : Component C4 100n
+Add Class Member: Failed to add class member : Component C5 10n
+Add Class Member: Failed to add class member : Component C6 100n
+Add Class Member: Failed to add class member : Component C7 100n
+Add Class Member: Failed to add class member : Component C8 22p
+Add Class Member: Failed to add class member : Component C9 100n
+Add Class Member: Failed to add class member : Component C10 15p
+Add Class Member: Failed to add class member : Component C11 15p
+Add Class Member: Failed to add class member : Component C12 10u/16V
+Add Class Member: Failed to add class member : Component C13 100n
+Add Class Member: Failed to add class member : Component C14 100n
+Add Class Member: Failed to add class member : Component C15 100n
+Add Class Member: Failed to add class member : Component C16 100n
+Add Class Member: Failed to add class member : Component C17 100n
+Add Class Member: Failed to add class member : Component C18 4u7
+Add Class Member: Failed to add class member : Component C19 100n
+Add Class Member: Failed to add class member : Component C20 100p
+Add Class Member: Failed to add class member : Component C21 100n
+Add Class Member: Failed to add class member : Component C22 4u7
+Add Class Member: Failed to add class member : Component C23 1p2
+Add Class Member: Failed to add class member : Component C24 100n
+Add Class Member: Failed to add class member : Component C25 10n
+Add Class Member: Failed to add class member : Component C26 1u
+Add Class Member: Failed to add class member : Component C27 1u
+Add Class Member: Failed to add class member : Component C28 22p
+Add Class Member: Failed to add class member : Component C29 100n
+Add Class Member: Failed to add class member : Component C30 100n
+Add Class Member: Failed to add class member : Component D1 Green
+Add Class Member: Failed to add class member : Component D2 Green
+Add Class Member: Failed to add class member : Component D3 Green
+Add Class Member: Failed to add class member : Component FB1 MPZ2012S601AT000
+Add Class Member: Failed to add class member : Component IPD1 MLPF-WB55-01E3
+Added Member To Class: ClassName=Battery Charger and LDO Regulator Member=Component J1 USB4135-GF-A
+Add Class Member: Failed to add class member : Component L1 10u
+Add Class Member: Failed to add class member : Component L2 10n
+Add Class Member: Failed to add class member : Component L3 3n3
+Add Class Member: Failed to add class member : Component L4 2n7
+Add Class Member: Failed to add class member : Component R1 49R9
+Add Class Member: Failed to add class member : Component R2 2k
+Add Class Member: Failed to add class member : Component R3 49R9
+Add Class Member: Failed to add class member : Component R4 4R7
+Add Class Member: Failed to add class member : Component R5 52R3
+Add Class Member: Failed to add class member : Component R6 0R0
+Add Class Member: Failed to add class member : Component R7 49R9
+Add Class Member: Failed to add class member : Component R8 10k
+Add Class Member: Failed to add class member : Component R9 49R9
+Add Class Member: Failed to add class member : Component R10 10k
+Add Class Member: Failed to add class member : Component R11 2k
+Add Class Member: Failed to add class member : Component R12 5k1
+Add Class Member: Failed to add class member : Component R13 1k5
+Add Class Member: Failed to add class member : Component R14 5k1
+Add Class Member: Failed to add class member : Component R15 2k2
+Add Class Member: Failed to add class member : Component R16 1k5
+Add Class Member: Failed to add class member : Component R17 0R0
+Add Class Member: Failed to add class member : Component R18 0R0
+Add Class Member: Failed to add class member : Component R19 0R0
+Add Class Member: Failed to add class member : Component R20 1k5
+Add Class Member: Failed to add class member : Component R21 10k
+Add Class Member: Failed to add class member : Component S1 TL3301AF160QG
+Add Class Member: Failed to add class member : Component U1 BUF602
+Add Class Member: Failed to add class member : Component U2 AD8310ARMZ-REEL7
+Add Class Member: Failed to add class member : Component U3 STM32WB55CGU6
+Add Class Member: Failed to add class member : Component U4 BQ24040DSQR
+Add Class Member: Failed to add class member : Component U5 TPS73633DBVR
+Add Class Member: Failed to add class member : Component U6 74AHC1G17GWH
+Add Class Member: Failed to add class member : Component X1 60312002114503
+Add Class Member: Failed to add class member : Component X2 HDR 1X4
+Added Member To Class: ClassName=Battery Charger and LDO Regulator Member=Component X3 BAT HDR
+Add Class Member: Failed to add class member : Component Y1 NX2016SA-32MHz
+Add Class Member: Failed to add class member : Component Y2 NX2012SA-32.768kHz
+Added Rule: Name=Schematic Supply Nets_1
