@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=3V3 Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Member From Class: ClassName=Logarithmic Amplifier Member=C4
+Removed Member From Class: ClassName=STM32 MCU Member=C9
+Change Component Footprint: Designator=U2 Old Footprint=MSOP New Footprint=SOIC-8
+Change Component Footprint: Designator=U6 Old Footprint=SOT23 5pin New Footprint=SOT353-1
+Change Component Designator: OldDesignator=  NewDesignator=X3
+Change component parameters: Designator = "U1" ("U1"); Footprint = "MSOP"; UniqueID = "\PYMEWMVI\TKLOPODS" ("\PYMEWMVI\TKLOPODS")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Operational Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BUF602ID"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "595-BUF602ID"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "SOT23 5pin"; UniqueID = "\AWIJULST\VONKBRJO" ("\AWIJULST\VONKBRJO")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT353-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kucište"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "74AHC1G17GWH"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TST_POINT)
+Added Component: Designator=TP6(TST_POINT)
+Added Pin To Net: NetName=GND Pin=J1-MP1
+Added Pin To Net: NetName=GND Pin=J1-MP2
+Added Pin To Net: NetName=GND Pin=J1-MP3
+Added Pin To Net: NetName=GND Pin=J1-MP4
+Add Pin To Net: Unknown Pin: Pin R21-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Member To Class: ClassName=STM32 MCU Member=Component TP5 TEST_POINT
+Added Member To Class: ClassName=STM32 MCU Member=Component TP6 TEST_POINT
+Added Member To Class: ClassName=Battery Charger and LDO Regulator Member=Component X3 BATERIJA
